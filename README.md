@@ -1,16 +1,17 @@
-Le projet consiste à étudier les différents modules destinés à la
-réalisation d’une application répondant aux besoins forts des utilisateurs en termes de
-supervision du réseau dans son ensemble. Cette application doit permettre aux utilisateurs
-d'interroger le serveur sur les différents livres contenu dans sa base de données et de
-renvoyer les réponses correspondantes au critère fourni. Ce projet nous permettra
-d’appliquer les notions théoriques vues en réseau et de les appliquer à une utilisation plus
-pratique.
-L’objectif final étant d’établir une connexion durable le temps de la requête entre le client et
-le serveur. Il devra être capable de fournir au départ le titre, le nom d’auteur, le genre et s’il
-comporte plus ou moins 300 pages selon la référence transmise par le client, dans le cas où
-celle-ci n’existe pas le serveur envoie un message informant le client et attend une réponse.
-A terme le serveur doit pouvoir renvoyer plusieurs livres différents étant donné certaines
-contraintes (même auteur, nombre de pages, appréciation, mots clés).
+  The project consists in studying the different modules intended for the
+creation of an application that meets the strong needs of users in terms of
+supervision of the network as a whole. This application must allow users
+to query the server on the different books contained in its database and to
+return responses that match the provided criterion. This project will allow us
+to apply the theoretical notions seen in the network TCP/IP  and to apply them to a more
+convenient.
+
+The ultimate goal is to establish a lasting connection for the duration of the request between the client and
+the server. He will have to be able to provide at the start the title, the author's name, the genre and if he
+contains more or less 300 pages depending on the reference transmitted by the client, in the event that
+it does not exist the server sends a message informing the client and waits for a response.
+Eventually the server must be able to return several different books given certain
+constraints (same author, number of pages, appreciation, keywords). 
 
 
 Language : C 
