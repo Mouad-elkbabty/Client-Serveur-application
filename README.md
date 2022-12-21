@@ -1,4 +1,4 @@
-Le projet consiste donc à étudier les différents modules destinés à la
+Le projet consiste à étudier les différents modules destinés à la
 réalisation d’une application répondant aux besoins forts des utilisateurs en termes de
 supervision du réseau dans son ensemble. Cette application doit permettre aux utilisateurs
 d'interroger le serveur sur les différents livres contenu dans sa base de données et de
