@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "struct.h": "c",
+        "req.h": "c",
+        "discuclient.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
